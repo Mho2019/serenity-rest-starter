@@ -1,5 +1,7 @@
 package starter;
 
+
+//make any changes in any class
 public enum WebServiceEndPoints {
     STATUS("http://localhost:8080/api/status"),
     TRADE("http://localhost:8080/api/trade");
